@@ -12,7 +12,13 @@ So, du willst also für immer Jungfrau bleiben. Dann bist du hier genau richtig.
 
 ## Studiengang
 
-Als 
+Als Informatiker sind wir Verbündete der Mathematiker und Physiker. Wir sind diejenigen, die die Welt in 1 und 0 zerlegen und dann wieder zusammenbauen.
+**Gemeinsam sind die MaPhIns unaufhaltsam!**  
+Und irgendwann schaffen wir es auch uns gegen die Tyrannei der Maschis zu wehren, die jahrelange Unterdrückung zu beenden und die Weltherrschaft an uns zu reißen.
+Als Informatiker sind wir hilfsbereit und bilden zusammen eine starke Einheit. Wenn ein anderer Informatiker sich in einer Prüfung verrechnet, dann helfen wir ihm, indem wir uns auch verrechnen.  
+Wir sind loyal und helfen einander.
+
+<span style="color: red; font-weight: bold; font-size: 1.6em;">Shift to the left, shift to the right, pop up, push down, Byte, Byte, Byte!</span>
 
 ## Module
 
@@ -23,12 +29,13 @@ Als
 
 ### Lineare Algebra
 
-
+- Ein Vektor ist ein Element eines Vektorraums
+- Guck dir lieber die Videos aus SS19 von Gerhard Hiß an.
 
 ### FoSAP
 
 - Es gibt keinen Fluss in NRW
-- Rossi (aka. Professor Rossmanith) einfach Mal nach Liegestützen fragen
+- Rossi (aka. Professor Rossmanith) einfach Mal nach Liegestützen im Hörsaal fragen
 
 ### Swt
 
