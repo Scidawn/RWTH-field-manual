@@ -27,6 +27,11 @@ Wir sind loyal und helfen einander.
 - succ Nats
 - try catch some b\*tches
 
+### Analysis für Informatiker
+
+- Mein Beileid, aber da musst du durch.
+- Wenn ihr Glück (und Manuel Torrilhon) habt, dann könnt ihr am Ende wenigstens Yodas Kutte sehen.
+
 ### Lineare Algebra
 
 - Ein Vektor ist ein Element eines Vektorraums
@@ -43,7 +48,7 @@ Wir sind loyal und helfen einander.
 
 ### DatKom
 
-- [Alles, was man zur Prüfung wissen muss](https://www.youtube.com/watch?v=7T93A3GOUk8)
+- [Alles, was man für die Prüfung wissen muss](https://www.youtube.com/watch?v=7T93A3GOUk8)
 - Nach der Prüfung Dirk und Klaus fragen, ob sie einen rausprüfen wollten.
 - Datkom Zusammenfassung:  
   [https://www.youtube.com/watch?v=Z-8tZcbI06I](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
