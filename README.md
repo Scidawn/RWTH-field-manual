@@ -23,6 +23,13 @@ ___
 Dieses Handbuch soll euch helfen, die RWTH Aachen zu überleben. Es ist eine Sammlung von Tipps und Tricks, die euch das Leben an der Uni erleichtern sollen. Es ist in verschiedene Kapitel unterteilt, die euch helfen sollen, euch in der Uni zurechtzufinden.  
 In diesem kleinen Guide findet ihr sowohl die Qualitäten Aachens, als auch RWTH-Wertevorstellungen. 
 
+Damit ihr wisst, was euch erwarten wird, ist hier ein Vorgeschmack auf euer Studienerlebnis: [Warum die RWTH anders als andere Unis ist](https://www.youtube.com/watch?v=gxB3h2836TM)
+
+So, du bist also an der RWTH Aachen. Herzlichen Glückwunsch! Du bist im Begriff dein Leben zu ruinieren. Aber keine Sorge, wir sind hier, um dir bei dem Vorhaben zu helfen. Dieses Handbuch soll dir helfen, die RWTH Aachen zu überleben.  
+Studiengangspezifische Informationen findet ihr hier:
+
+- [Informatik](informatik.md)
+
 ## Das Karman Tor
 ___
 
@@ -77,10 +84,15 @@ Insbesondere wird angemerkt, dass die Mensa Ahornstraße zu meiden ist.
 ## Rektor
 ___
 
-Niemand kennt Rüdigers Nachnamen. Er ist der Rektor der RWTH und wurde noch nie mit Gru aus Ich einfach unverbesserlich in einem Raum gesehen. Niemand weiß, woher er kommt oder was er macht. Er ist ein Mysterium. Ein Mysterium, das wir alle lieben.
+Niemand kennt Rüdigers Nachnamen. Er ist der Rektor der RWTH und wurde noch nie mit Gru aus "Ich einfach unverbesserlich" in einem Raum gesehen. Niemand weiß, woher er kommt oder was er macht. Er ist ein Mysterium. Ein Mysterium, das wir alle lieben.
 
 ## Nahrung
 ___
+
+### Streuselbrötchen
+
+Die Streuselbrötchen in Aachen sind legendär. Wir verfolgen unerbittlich die Mission, das Streuselbrötchen zu Aachens Wahrzeichen zu machen.  
+Die besten Streuselbrötchen gibt es bei der Bäckerei Moss.
 
 ### Campuspizza
 
@@ -107,7 +119,8 @@ Alles in allem ist das Sowieso sehr empfehlenswert und das Personal ist freundli
 
 ### Pontgrill
 
-Der Pontgrill ist eine Imbissbude in der Pontstraße. Der Dönermann deines Vertrauens.
+Der Pontgrill ist eine Imbissbude in der Pontstraße. Der Dönermann deines Vertrauens.  
+Das Essen ist immer "Lecker oder sehr lecker".
 
 ### Dat Frittebüdje TODO
 
@@ -128,6 +141,58 @@ graph
     
 ```
 
+## Unterhaltung
+
+Als Student hätte man ja eigentlich genug Zeit, um sich mit den wichtigen Dingen des Lebens zu beschäftigen.  
+Aber wenn man vor der Wahl steht, um 08:30 in der Vorlesung zu sitzen oder sich die neueste Folge von "The Mandalorian" anzusehen, dann ist die Wahl doch eigentlich klar, oder?  
+Hier sind ein paar Tipps, wie ihr euch möglichst effizient von euren Pflichten ablenken könnt:
+
+- [Reddit](https://www.reddit.com/r/RWTH_memes/)
+- [Instagram](https://www.instagram.com/acbushofmemes/?hl=de)
+
+### Hall of Fame
+
+In der Hall of Fame findet ihr die Crème de la Crème der RWTH Memes.  
+Diese Videos muss man als Student kennen:
+
+- https://www.youtube.com/watch?v=NOtLb34Osl0
+- https://www.youtube.com/watch?v=jE_C-eV8CmQ
+- https://www.youtube.com/watch?v=Xh33K-s1CsU
+- https://www.youtube.com/watch?v=Tso_5ks1PT8
+- https://www.youtube.com/watch?v=OGQSOAWufUQ
+- https://www.youtube.com/watch?v=601IDQT9BtM
+- https://www.youtube.com/watch?v=gxB3h2836TM
+- https://www.youtube.com/watch?v=v92lydUKHrM
+- https://www.youtube.com/watch?v=EWGPKGEDBwI
+- https://www.youtube.com/watch?v=2HLraHPPyDc
+
+### Partyleben
+
+---
+- [**Maschiparty**](https://fsmb.rwth-aachen.de/veranstaltungen/maschiparty/)  
+  Die Maschiparty ist eine der größten Partys an der RWTH. Hier treffen sich Studierende aus allen Fachbereichen, um gemeinsam zu feiern.  
+  Die Maschiparty findet einmal im Jahr statt und ist ein absolutes Muss für jeden Studierenden.
+---
+- [**Eishockey**](https://hochschulsport.rwth-aachen.de/cms/hsz/events/~kkti/eishockey-uni-cup/)  
+  Der Eishockey Uni Cup ist ein jährliches Event, bei dem die Maschis gegen die Etis und Medis antreten.  
+  Allerdings ist Erstis der Ticketverkauf nicht gestattet und wird als respektlos angesehen.  Ihr seid jedoch herzlich eingeladen, die Veranstaltung zu besuchen, wenn ihr in den höheren Semestern seid.
+---
+- [**SAP**]()  
+  Die SAP - oder auch Semesteranfangsparty - ist eine sehr empfehlenswerte jährliche Veranstaltung um die das Semester gebührend zu beginnen.  
+  Alles, was ihr dazu wissen müsst, ist, dass ihr euch auf eine lange Nacht einstellen solltet.
+---
+- [**Nacht der Professoren**]()  
+  Die Nacht der Professoren ist ein Muss für jeden, der seinen Professor mal in einem anderen Licht sehen will.  
+  Hier zeigen unsere Profs, wie gut ihre Künste als DJ sind und ob sie nicht doch ein bisschen mehr drauf haben, als nur Vorlesungen zu halten.
+  Wer weiß, vielleicht hat ja der ein oder andere Professor seine wahre Berufung als DJ verfehlt.
+---
+- [**Bierbachelor**]()  
+  Der Bierbachelor ist ein jährliches Event, bei dem die Studierenden der RWTH Aachen die Möglichkeit haben innerhalb einer Nacht ihren Bachelor zu machen.  
+  Naja, zumindest im Biertrinken.  
+  Hierfür musst du dein Können in verschiedenen aachener Kneipen unter Beweis stellen und zeigen, dass du ein echter Aachener bist.  
+  Im Folgejahr kannst du dann am Biermaster teilnehmen, bis du irgendwann promovierst und zum Bierdoktor wirst.
+---
+
 ## Webseiten
 
 ### Offizielle Webseiten
@@ -141,20 +206,13 @@ graph
 - [RWTHoffline](https://offline.rwth-aachen.de/)
 - [Panikzettel](panikzettel.philworld.de)
 - [HTWR]
+- [die Erlösung](https://bit.ly/rwtherlösung)
 - [Schrank]
 - [Skriptesammlung](https://s-inf.de)
 
-TODO: 
+TODO:  
+Links ergänzen
+
 MaPhIns, 
-Eishockey, 
-Maschiparty, 
-SAP, 
-acbushofmemes, 
-r/rwthmemes
-Mechanik 3, HöMa, MaLo... Just don't
-Schnitzeldienstag
-Waffelmittwoch (erster Mi des Monats)
+Mechanik 3, HöMa Just don't
 AfI bei Torrilhon oder so
-rwth erlösung
-datkom song
-klaus und dirk fragen ob die einen rausprüfen wollen
