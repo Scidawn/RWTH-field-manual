@@ -3,16 +3,15 @@
 ## Table of Contents
 
 1. [Einleitung](#einleitung)
-2. [Das Karman Tor](#das-karma-tor)
+2. [Das Karman Tor](#das-karman-tor)
 3. [Der Bib-wichser](#der-bib-wichser)
 4. [Sultans Of Kebap](#sultans-of-kebap)
 5. [Link](#link)
 6. [Thomas Gottschalk](#thomas-gottschalk)
-6. [Mensen](#mensen)
-7. [Rektor](#rektor)
-8. [Nahrung](#nahrung)
-9. [Allianzen](#allianzen)
-10. [Unbekannte Orte](#unbekannte-orte)
+7. [Mensen](#mensen)
+8. [Rektor](#rektor)
+9. [Nahrung](#nahrung)
+10. [Allianzen](#allianzen)
 11. [Unterhaltung](#unterhaltung)
 
 [Webseiten](#webseiten)
@@ -28,7 +27,7 @@ Damit ihr wisst, was euch erwarten wird, ist hier ein Vorgeschmack auf euer Stud
 So, du bist also an der RWTH Aachen. Herzlichen Glückwunsch! Du bist im Begriff dein Leben zu ruinieren. Aber keine Sorge, wir sind hier, um dir bei dem Vorhaben zu helfen. Dieses Handbuch soll dir helfen, die RWTH Aachen zu überleben.  
 Studiengangspezifische Informationen findet ihr hier:
 
-- [Informatik](informatik.md)
+- [Informatik](Studiengänge/Informatik.md)
 
 ## Das Karman Tor
 ___
@@ -40,13 +39,13 @@ Sofern ihr also nicht auf der Suche nach einem Fluch seid, solltet ihr das Karma
 ## Der Bib-wichser
 ___
 
-Vor einigen Jahren gab es an der RWTH einen Studenten, der sich den Namen "Bib-wichser" gegeben hat. Er hat sich diesen Namen gegeben, weil er in der Bibliothek der RWTH Aachen masturbiert hat. Dieser Student ist mittlerweile nicht mehr an der RWTH, aber sein Geist lebt weiter. Der Bib-wichser ist ein Symbol für die Verzweiflung, die manchmal an der RWTH herrscht. Er ist ein Symbol für die Einsamkeit und die abgef*ckten Leute, die hier unter uns weilen.  
-To-do
+Vor einigen Jahren gab es an der RWTH einen Studenten, der sich den Namen "Bib-wichser" verdient hat. Er hat sich diesen Namen gegeben, weil er in der Bibliothek der RWTH Aachen masturbiert hat. Dieser Student ist mittlerweile nicht mehr an der RWTH, aber sein Geist lebt weiter. Der Bib-wichser ist ein Symbol für die Verzweiflung, die manchmal an der RWTH herrscht. Er ist ein Symbol für die Einsamkeit und die abgef*ckten Leute, die hier unter uns weilen.  
+TODO
 
 ## Sultans Of Kebap
 ___
 
-"Sultans Of Kebap" ist eine Imbisskette, welche **unter allen Umständen** zu boykottieren ist. Als die Imbissbude in der Pontestraße eröffnet wurde, wurde allen Studenten ein kostenloser Döner versprochen. Als die Studenten jedoch ankamen, um ihren Döner abzuholen, wurden sie von den Betreibern der Imbissbude verpflichtet für den Döner zu zahlen. Dies ist ein Verstoß gegen die Ehre der Studenten und sollte nicht toleriert werden.
+"Sultans Of Kebap" ist eine Imbisskette, welche **unter allen Umständen** zu boykottieren ist. Als die Imbissbude in der Pontstraße eröffnet wurde, wurde allen Studenten ein kostenloser Döner versprochen. Als die Studenten jedoch ankamen, um ihren Döner abzuholen, wurden sie von den Betreibern der Imbissbude verpflichtet für den Döner zu zahlen. Dies ist ein Verstoß gegen die Ehre der Studenten und sollte nicht toleriert werden.
 Als Studierende sind arm und wir haben das Recht auf einen kostenlosen Döner. Boykottiert "Sultans Of Kebap" und zeigt ihnen, dass sie nicht mit uns machen können, was sie wollen. Seither spürt die Filiale in der Pontstraße den Zorn von Generationen von Studierenden.
 
 Wir sind Studierende.
@@ -204,7 +203,7 @@ Diese Videos muss man als Student kennen:
 ### Inoffizielle Webseiten
 
 - [RWTHoffline](https://offline.rwth-aachen.de/)
-- [Panikzettel](panikzettel.philworld.de)
+- [Panikzettel](https://panikzettel.philworld.de)
 - [HTWR]
 - [die Erlösung](https://bit.ly/rwtherlösung)
 - [Schrank]
