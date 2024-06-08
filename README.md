@@ -8,11 +8,12 @@
 4. [Sultans Of Kebap](#sultans-of-kebap)
 5. [Link](#link)
 6. [Thomas Gottschalk](#thomas-gottschalk)
-7. [Mensen](#mensen)
-8. [Rektor](#rektor)
-9. [Nahrung](#nahrung)
-10. [Allianzen](#allianzen)
-11. [Unterhaltung](#unterhaltung)
+7. [Grundausstattung](#grundausstattung)
+8. [Mensen](#mensen)
+9. [Rektor](#rektor)
+10. [Nahrung](#nahrung)
+11. [Allianzen](#allianzen)
+12. [Unterhaltung](#unterhaltung)
 
 [Webseiten](#webseiten)
 
@@ -70,6 +71,13 @@ ___
 Aachen ist voll von Thomas Gottschalk. Er ist überall. Er ist an Straßenschildern, in den Gebäuden und in den Herzen der Menschen.  
 Außerdem hat ein Team von ausgebildeten und kompetenten Experten im Zuge einer streng geheimen strategischen Operation Thomas Gottschalks Gesicht auf der Unterseite des Super Cs befestigt. Dies war nur durch ausgeklügelte Techniken und dem Einsatz einer Drohne möglich.
 
+## Grundausstattung
+___
+Um in Aachen zu überleben, braucht ihr eine Grundausstattung. Hier ist eine vollständige Liste an Dingen, die ihr unbedingt braucht:
+
+1. Eine Regenjacke
+
+Mit dieser Grundausrüstung seid ihr bestens auf das Leben in Aachen vorbereitet.
 
 ## Mensen
 ___
@@ -215,3 +223,4 @@ Links ergänzen
 MaPhIns, 
 Mechanik 3, HöMa Just don't
 AfI bei Torrilhon oder so
+
